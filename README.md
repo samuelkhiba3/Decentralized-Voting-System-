@@ -4,7 +4,7 @@ Simple Decentralized Voting System that promotes security and transparency of vo
 # Tech used:
 - JAVA
 - JAVAFX
-- 
+
 # Functionalities:
 - Users can register and get unique key instantly
 - Login using their registered credentials along with their key which was provided.
@@ -20,3 +20,4 @@ Simple Decentralized Voting System that promotes security and transparency of vo
 - Introduced a master server that holds the TCP address and ports of all registerd peers(But not Voting data), this is to enable peer connections.
   
 Still under development...
+![Voting System(JPG version)](https://github.com/user-attachments/assets/7f367060-aea6-44cf-9e5b-9bfe4474e0c8)
